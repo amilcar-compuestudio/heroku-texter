@@ -18,5 +18,11 @@
     "require": {
         "php": "~7.0"
 	},
-    "require-dev": {}
+    "require-dev": {},
+	
+	"post-install-cmd": 
+	[
+		 "php artisan clear-compiled",
+		 "chmod -R 777 public/"
+	]
 }
