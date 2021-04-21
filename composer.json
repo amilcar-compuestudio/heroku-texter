@@ -1,0 +1,22 @@
+{
+    "name": "Esto lo puedes Modificar",
+    "description": "Esto tambien",
+    "license": "MIT tambien",
+    "homepage": "http://localhost.com",
+    "keywords": [
+        "KEY tambien",
+        "ETC tambien"
+    ],
+    "authors": [
+        {
+            "name": "Amilcar Gomez esto tambien",
+            "email": "amilkargomez@hotmail.es",
+            "role": "Developer esto tambien"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "~7.0"
+	},
+    "require-dev": {}
+}
